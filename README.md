@@ -1,3 +1,5 @@
+<img src="https://github.com/Tanushree-meharwal/Tanushree-meharwal/blob/main/animation.gif" alt="logo" width="1000" height="300">
+
 <h1 align="center">Hi 👋, I'm Harsh Tank</h1>
 <h3 align="center">A professional Data Analyst from India</h3>
 <img align='right' alt='coding' width='400' src='https://aster.cloud/wp-content/uploads/2022/11/compiling-code.gif'>
