@@ -1,4 +1,4 @@
-<img src="https://github.com/HarshT-coder/HarshT-coder/blob/main/animation1.gif" alt="logo" width="1000" height="300">
+<img src="https://github.com/HarshT-coder/HarshT-coder/blob/main/animation2.gif" alt="logo" width="1000" height="300">
 
 <h1 align="center">Hi 👋, I'm Harsh Tank</h1>
 <h3 align="center">A professional Data Analyst from India</h3>
